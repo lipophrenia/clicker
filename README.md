@@ -3,4 +3,4 @@
 Clicker Flutter project.
 
 Ryabtsev Maxim
-Smolensk State University ,2022
+Smolensk State University, 2022
