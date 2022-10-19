@@ -1,6 +1,4 @@
 # Clicker
 
-Clicker Flutter project.
-
-Ryabtsev Maxim
-Smolensk State University, 2022
+Рябцев Максим, 19ПМИ
+СмолГУ, 2022
