@@ -2,4 +2,5 @@
 
 Clicker Flutter project.
 
-#Ryabtsev Maxim, 2022
+# Ryabtsev Maxim
+# 2022
